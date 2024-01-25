@@ -4,3 +4,5 @@ pandas
 numpy
 tensorflow
 matplotlib
+scikit-learn
+imbalanced-learn
